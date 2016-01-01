@@ -44,8 +44,12 @@ INSTALLATION
 		
 		python3 -m pip install getcite --download ~/Downloads
 
-	(3) Once getcite is downloaded, go to the getcite root folder (that 
-		contains setup.py) and type:
+		OR
+
+		git clone https://github.com/salexander2000/getcite
+
+	(3) Once getcite is downloaded and unzipped, go to the getcite root 
+		folder (that contains setup.py) and type:
 
 		python3 setup.py install
 

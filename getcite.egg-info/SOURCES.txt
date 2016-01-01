@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README
+ez_setup.py
+setup.py
+getcite/getcite.py
+getcite.egg-info/PKG-INFO
+getcite.egg-info/SOURCES.txt
+getcite.egg-info/dependency_links.txt
+getcite.egg-info/requires.txt
+getcite.egg-info/top_level.txt

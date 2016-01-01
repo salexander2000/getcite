@@ -1,0 +1,2 @@
+selenium>=2.48.0
+PyPDF2>=1.25
